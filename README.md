@@ -28,7 +28,8 @@ Automation tools for strategy execution, market making, arbitrage, and copy trad
 Platforms for data analysis, visualization, and market research.
 
 - **MarketPulse Analytics** — Real-time dashboards for tracking market trends, liquidity, and sentiment.  
-- **Prediction Insights** — Research-focused analytics with expert commentary and reports.  
+- **Prediction Insights** — Research-focused analytics with expert commentary and reports.
+- **ChartScout** - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
 - Whale tracking dashboards  
 - Probability and volatility analysis tools  
 - Historical data explorers  
