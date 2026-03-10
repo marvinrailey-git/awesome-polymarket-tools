@@ -29,6 +29,8 @@ Platforms for data analysis, visualization, and market research.
 
 - **MarketPulse Analytics** — Real-time dashboards for tracking market trends, liquidity, and sentiment.  
 - **Prediction Insights** — Research-focused analytics with expert commentary and reports.  
+- **[Polyguana](https://polyguana.com)** — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking.  
+- **[pm.wiki](https://pm.wiki)** — Independent prediction market directory and comparison tool with 350+ project profiles covering the full Polymarket ecosystem and beyond.  
 - Whale tracking dashboards  
 - Probability and volatility analysis tools  
 - Historical data explorers  
