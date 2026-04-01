@@ -51,7 +51,8 @@ Monitoring systems that notify users of important market events.
 - Telegram alert bots for price movements  
 - Whale activity trackers  
 - Real-time probability change alerts  
-- Custom notification systems for traders  
+- Custom notification systems for traders
+- **[PolyMind](https://polyminds.netlify.app/)** — Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Monitors 12 signal types including whale bets, volume spikes, and coordinated wallets.
 
 
 ## 📈 Dashboards
