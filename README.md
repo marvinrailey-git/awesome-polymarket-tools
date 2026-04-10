@@ -71,6 +71,7 @@ Autonomous systems that analyze data or execute trades using AI techniques.
 - AI trading agents  
 - Sentiment-driven prediction models  
 - Research assistants for market discovery  
+- **[LearnAI — Polymarket AI Tutor](https://www.uselearnai.com/chat?topic=Polymarket)** — Conversational AI teacher that explains Polymarket mechanics, prediction markets, and trading strategy through personalized lessons
 - Automated decision systems  
 
 
