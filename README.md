@@ -38,6 +38,8 @@ Platforms for data analysis, visualization, and market research.
 
 Developer libraries and interfaces for building applications on top of Polymarket.
 
+- **[polymarket-mcp-server](https://github.com/Birantx/polymarket-mcp-server)** — Credential-free MCP server exposing Polymarket market search, order books, price history, and a liquidity-rewards scanner to Claude and any MCP client.
+
 - **Poly SDK** — TypeScript SDK for interacting with Polymarket APIs and building custom tools.  
 - Python clients for automation scripts  
 - API wrappers for market data and order management  
