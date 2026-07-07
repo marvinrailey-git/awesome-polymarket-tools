@@ -32,6 +32,7 @@ Platforms for data analysis, visualization, and market research.
 - Whale tracking dashboards  
 - Probability and volatility analysis tools  
 - Historical data explorers  
+- **[TrueOdds](https://trueodds.win/?utm_source=awesome-polymarket-tools-mr)** — Advanced live analytics for Polymarket: AI fair value, four signal feeds, whale radar with Telegram alerts, trader screener and smart money indicator.  
 
 
 ## 🧩 SDKs & APIs
