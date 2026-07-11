@@ -27,6 +27,7 @@ Automation tools for strategy execution, market making, arbitrage, and copy trad
 
 Platforms for data analysis, visualization, and market research.
 
+- **[ATLAS Research](https://atlassignals.app)** — Paper-verified prediction market research with a public, loss-inclusive track record; free Telegram channels and a live dashboard.
 - **MarketPulse Analytics** — Real-time dashboards for tracking market trends, liquidity, and sentiment.  
 - **Prediction Insights** — Research-focused analytics with expert commentary and reports.  
 - Whale tracking dashboards  
