@@ -131,6 +131,7 @@ On-chain and off-chain systems that support data access and reliability.
 - Indexers  
 - Oracles  
 - Historical datasets  
+- [DepthFeed Liquidity Benchmark](https://depthfeed.com/arena/liquidity) — Reproducible Polymarket, Kalshi, and Limitless order-book liquidity dataset with [public data and methodology](https://github.com/vcorp-dev/prediction-market-liquidity-benchmark).
 
 
 ## 💰 Funds & Managed Strategies
