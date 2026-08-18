@@ -16,6 +16,7 @@ https://polycatalog.io/top-polymarket-tools
 
 Automation tools for strategy execution, market making, arbitrage, and copy trading.
 
+- **[Polyburg](https://polyburg.com)** — Telegram mini-app for automatic copy trading: curated traders mirrored into your own wallet (Copy Rules), or one-deposit managed Presets. Polymarket Builders-Program member.  
 - **PolyBot Pro** — Advanced automated trading bot with AI-driven strategies and risk controls.  
 - **AutoHedge** — Automated hedging system for managing exposure across multiple markets.  
 - Market-making bots for providing liquidity  
