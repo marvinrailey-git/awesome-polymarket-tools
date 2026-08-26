@@ -18,6 +18,7 @@ Automation tools for strategy execution, market making, arbitrage, and copy trad
 
 - **PolyBot Pro** — Advanced automated trading bot with AI-driven strategies and risk controls.  
 - **AutoHedge** — Automated hedging system for managing exposure across multiple markets.  
+- **[PolySpark](https://t.me/polysparkbot?start=c_gh_marvinrailey)** — Telegram copy trading bot for Polymarket. Fills land 0–1 blocks behind the target wallet; three-step setup; Turnkey-secured keys.  
 - Market-making bots for providing liquidity  
 - Copy trading systems for mirroring experienced traders  
 - Arbitrage bots targeting pricing inefficiencies  
