@@ -16,6 +16,7 @@ https://polycatalog.io/top-polymarket-tools
 
 Automation tools for strategy execution, market making, arbitrage, and copy trading.
 
+- [PolyBot](https://polybot.trading/) — Telegram trading and copy trading for Polymarket, with user-controlled sizing, filters, and daily caps through a Safe wallet. Standard fee: 1% of successful trade volume.
 - **PolyBot Pro** — Advanced automated trading bot with AI-driven strategies and risk controls.  
 - **AutoHedge** — Automated hedging system for managing exposure across multiple markets.  
 - Market-making bots for providing liquidity  
