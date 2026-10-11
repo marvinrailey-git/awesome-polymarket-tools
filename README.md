@@ -16,6 +16,7 @@ https://polycatalog.io/top-polymarket-tools
 
 Automation tools for strategy execution, market making, arbitrage, and copy trading.
 
+- **[BlockRotate](https://blockrotate.com/)** — Sub-millisecond, non-custodial copy trading infrastructure engineered to mirror elite Polymarket traders with institutional-grade low-latency execution.  
 - **PolyBot Pro** — Advanced automated trading bot with AI-driven strategies and risk controls.  
 - **AutoHedge** — Automated hedging system for managing exposure across multiple markets.  
 - Market-making bots for providing liquidity  
