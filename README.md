@@ -62,6 +62,7 @@ Interfaces designed for monitoring markets, performance, and activity.
 - Market overview panels  
 - Liquidity and volume monitors  
 - Custom analytics interfaces  
+- **[Melbo](https://melbo.io)** — Prediction markets for real-world events. What Melbo adds for the user: sign-in with email, Google or Telegram and a built-in non-custodial wallet (no extension, no seed phrase); network gas paid by Melbo; the interface in 18 languages, including Russian, Turkish, Arabic, Hindi, Urdu and Indonesian; 24/7 live chat support; no fee on limit orders, deposits and withdrawals.  
 
 
 ## 🧠 AI Agents
